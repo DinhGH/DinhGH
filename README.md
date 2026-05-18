@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi 👋 I'm Huỳnh Tấn Dĩnh
+# HUỲNH TẤN DĨNH
 
-### 🚀 Fullstack Web Developer | React & Express.js Developer
+### 🚀 Web Developer | React & Node.js Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Fullstack+Web+Developer;React+%2B+Express.js+Developer;Building+Modern+Web+Applications;Software+Engineering+Student;AI+Integration+Enthusiast;Always+Learning+New+Things" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=DinhGH&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+<img src="https://komarev.com/ghpvc/?username=DinhGH&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -16,9 +16,12 @@
 
 # 💫 About Me
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 🎓 Software Engineering Student  
 💻 Passionate about Fullstack Web Development  
 🚀 Focused on the React + Node.js ecosystem  
+
 🧠 Interested in:
 - Backend Architecture
 - REST APIs
@@ -38,6 +41,8 @@
 ```txt
 I love building things that solve real problems.
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -67,47 +72,15 @@ I love building things that solve real problems.
 
 # 🛠️ Tech Stack
 
-## 💻 Frontend
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,vite,nodejs,express,java,python,mongodb,mysql,firebase,vercel,netlify,cloudflare,github,git,vscode,figma,postman,npm&perline=8"/>
 
----
-
-## ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
-</p>
+</div>
 
 ---
 
-## 🗄️ Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
----
-
-## ☁️ Deployment & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github" />
-</p>
-
----
-
-## 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,npm" />
-</p>
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -117,29 +90,27 @@ I love building things that solve real problems.
 
 </div>
 
----
+<div align="center">
 
-# 🔥 GitHub Streak
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DinhGH&theme=tokyo-night"/>
+
+</div>
 
 <div align="center">
 
-![](https://streak-stats.demolab.com?user=DinhGH&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinhGH&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinhGH&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![DinhGH github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DinhGH&theme=tokyo-night)](https://github.com/DinhGH)
-
----
-
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=DinhGH&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=DinhGH&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -147,103 +118,168 @@ I love building things that solve real problems.
 
 # 🚀 Featured Projects
 
-## 🤖 AI Bug Detection Tool
+<div align="center">
 
-> AI-powered platform that analyzes source code and suggests possible bugs and improvements.
+<table>
+<tr>
+<td width="50%">
 
-### Features
+<h3 align="center">🤖 AI Bug Detection Tool</h3>
+
+<div align="center">  
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+</div>
+
+### ✨ Features
 - Upload source code
 - GitHub synchronization
 - AI recommendations
 - Static code analysis
 - Dashboard management
 
-### Tech Stack
+### 🛠️ Tech Stack
 ```txt
 React + Express.js + MongoDB + AI API
 ```
 
----
+</td>
 
-## 💬 Real-time Chat Application
+<td width="50%">
 
-> Fullstack realtime chat application with socket communication.
+<h3 align="center">💬 Real-time Chat App</h3>
 
-### Features
+<div align="center">  
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%"/>
+</div>
+
+### ✨ Features
 - Real-time messaging
 - JWT Authentication
 - Online status
 - Responsive design
 
-### Tech Stack
+### 🛠️ Tech Stack
 ```txt
 React + Node.js + Socket.IO + MongoDB
 ```
 
----
+</td>
+</tr>
 
-## 📚 Schedule Management System
+<tr>
+<td width="50%">
 
-> Web application for searching and managing university schedules.
+<h3 align="center">📚 Schedule Management System</h3>
 
-### Features
+<div align="center">  
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%"/>
+</div>
+
+### ✨ Features
 - Fast searching
 - Subject filtering
 - Responsive UI
 - REST API integration
 
-### Tech Stack
+### 🛠️ Tech Stack
 ```txt
 React + Express.js + MySQL
 ```
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🚀 Future SaaS Projects</h3>
+
+<div align="center">  
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+</div>
+
+### 🎯 Goals
+- SaaS Architecture
+- Docker Deployment
+- CI/CD Pipelines
+- Scalable Backend
+- AI Features
+
+### ⚡ Focus
+```txt
+Build products for real users
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 📖 Currently Learning
 
-```txt
-✔ Backend Architecture
-✔ Express.js Advanced Concepts
-✔ Authentication & Authorization
-✔ RESTful API Design
-✔ Software Measurement Analysis
-✔ AI Integration
-✔ Docker Basics
-✔ CI/CD
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions"/>
+
+</div>
+
+<div align="center">
+
+| Technology | Progress |
+|---|---|
+| Backend Architecture | ██████████ 85% |
+| Express.js Advanced | █████████ 80% |
+| Authentication & Security | ████████ 75% |
+| Docker Basics | ██████ 60% |
+| CI/CD | █████ 50% |
+| System Design | ███████ 70% |
+
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-- Build scalable fullstack applications
-- Learn advanced backend architecture
-- Improve system design skills
-- Contribute to open source
-- Deploy complete SaaS projects
-- Master Docker & CI/CD
+<div align="center">
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=DinhGH&data=followers,repositories,stars,commits&theme=nautilus"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,100:0e75b6&height=120&section=header&text=Build%20Scalable%20Applications&fontSize=28&fontColor=ffffff"/>
+
+</div>
 
 ---
 
 # 🧠 Developer Philosophy
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
 ```txt
 "First solve the problem. Then write clean and maintainable code."
 ```
+
+</div>
 
 ---
 
 # ⏱️ Coding Activity
 
-<!--START_SECTION:waka-->
-```txt
-JavaScript   10 hrs 30 mins  ███████████░░░░░░░░░░░░░   45%
-React        6 hrs 20 mins   ███████░░░░░░░░░░░░░░░░   27%
-Express.js   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░   14%
-MongoDB      2 hrs 00 mins   ██░░░░░░░░░░░░░░░░░░░░░    9%
-Other        1 hr            ░░░░░░░░░░░░░░░░░░░░░░░    5%
-```
-<!--END_SECTION:waka-->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DinhGH&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -257,21 +293,11 @@ Other        1 hr            ░░░░░░░░░░░░░░░░░
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![snake gif](https://github.com/DinhGH/DinhGH/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 📌 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/DinhGH/DinhGH/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -281,17 +307,7 @@ Other        1 hr            ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://randommeme-five.vercel.app/" style="height:400px;"/>
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=DinhGH&icon=5&color=0)
+<img src="https://randommeme-five.vercel.app/" width="70%"/>
 
 </div>
 
@@ -313,18 +329,26 @@ Other        1 hr            ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-```txt
-Code is like humor. When you have to explain it, it’s bad.
-```
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
 
 ---
 
+# 🌟 Visitor Counter
+
 <div align="center">
 
-## 🚀 Thanks for visiting my profile
+<img src="https://visitcount.itsvg.in/api?id=DinhGH&icon=5&color=0"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=120&section=footer"/>
+</div>
+
+---
+
+# 🚀 Thanks for visiting my profile
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=160&section=footer"/>
 
 </div>
