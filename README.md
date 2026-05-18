@@ -80,9 +80,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&background=000000&hide_border=true"/>
+<img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&background=000000"/>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
+<img width="49%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
 
 </div>
 
@@ -131,17 +131,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Nothing+is+impossible." />
 
-<br/>
 
 <div align="right" width="70%">
 
 ### — F8 —
 
 </div>
-
-</div>
-
----
 
 </div>
 
