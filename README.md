@@ -80,10 +80,9 @@
 
 <div align="center">
 
-<img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&background=000000"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&background=000000&hide_border=true"/>
 
-<img width="49%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
-
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
 
 </div>
 
@@ -134,7 +133,11 @@
 
 <br/>
 
-######### — F8 —
+<div align="right" width="70%">
+
+### — F8 —
+
+</div>
 
 </div>
 
