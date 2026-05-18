@@ -62,21 +62,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,mysql,tailwind,bootstrap,java,python,git,github,vscode,postman,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,mysql,tailwind,java,python,git,github,vscode,postman,vercel&theme=dark"/>
 
 </div>
 
 ---
 
 # GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&hide_border=true&background=000000"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
-
-</div>
 
 <br/>
 
@@ -88,9 +80,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinhGH&theme=github_dark"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&background=000000"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinhGH&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
 
 </div>
 
@@ -139,12 +131,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Nothing+is+impossible." />
 
-<br/><br/>
+<br/>
 
-```txt
-"Nothing is impossible."
-— F8
-```
+### — F8
+
+</div>
+
+---
 
 </div>
 
