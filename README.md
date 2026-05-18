@@ -142,8 +142,6 @@
 
 ---
 
-# Thanks For Visiting My Profile
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2d2d2d&height=140&section=footer"/>
