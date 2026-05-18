@@ -1,8 +1,8 @@
 <div align="center">
 
-# Huỳnh Tấn Dĩnh
+# HUỲNH TẤN DĨNH
 
-### Fullstack Web Developer • React & Express.js
+### Fullstack Web Developer • React & Node.js
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;React+%2B+Express.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things" />
 
@@ -19,11 +19,15 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```txt
-🎓 Software Engineering Student
-💻 Fullstack Web Developer
-🚀 Focused on React + Express.js Ecosystem
-🧠 Interested in Backend Architecture & AI Integration
-⚡ Passionate about building scalable web applications
+- Software Engineering Student
+- Fullstack Web Developer
+- Focused on React + Node.js(Express.js) Ecosystem
+- Interested in Backend Architecture & AI Integration
+- Continuously learning new technologies and development practices
+- Interested in modern UI/UX and responsive web design
+- Experienced with REST APIs, authentication, and CRUD
+- Open to collaboration on innovative and impactful projects
+- Turning ideas into real-world applications through code
 ```
 
 <br clear="right"/>
@@ -35,19 +39,19 @@
 <div align="center">
 
 <a href="https://github.com/DinhGH">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="https://facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1f1f1f?style=for-the-badge&logo=facebook&logoColor=4DA3FF"/>
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=FF6EC7"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=FF5F5F"/>
 </a>
 
 </div>
@@ -100,11 +104,11 @@
 
 ---
 
-# Currently Learning
+# Core Skills & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,typescript,git&theme=dark"/>
 
 </div>
 
@@ -114,17 +118,18 @@
 
 | Technology | Progress |
 |---|---|
-| Backend Architecture | ██████████ 85% |
-| Express.js Advanced | █████████ 80% |
-| Authentication & Security | ████████ 75% |
-| Docker Basics | ██████ 60% |
-| CI/CD | █████ 50% |
-| System Design | ███████ 70% |
+| React.js Development | ██████████ 90% |
+| Express.js Backend | █████████ 85% |
+| REST API Development | █████████ 85% |
+| PostgreSQL & MySQL | ████████ 80% |
+| Tailwind CSS & Responsive UI | ████████ 80% |
+| Authentication & JWT | ███████ 75% |
+| Git & GitHub Workflow | ███████ 75% |
+| Web Deployment & Hosting | ██████ 60% |
 
 </div>
 
 ---
-
 # Quote I Like
 
 <div align="center">
@@ -134,7 +139,8 @@
 <br/><br/>
 
 ```txt
-"First solve the problem. Then write clean and maintainable code."
+"Nothing is impossible."
+— F8
 ```
 
 </div>
@@ -145,6 +151,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2d2d2d&height=140&section=footer"/>
 
 </div>
