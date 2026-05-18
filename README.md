@@ -21,7 +21,7 @@
 ```txt
 - Software Engineering Student
 - Fullstack Web Developer
-- Focused on React + Node.js(Express.js) Ecosystem
+- Focused on React + Node.js (Express.js) Ecosystem
 - Interested in Backend Architecture & AI Integration
 - Continuously learning new technologies and development practices
 - Interested in modern UI/UX and responsive web design
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,mysql,tailwind,bootstrap,java,python,git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,mysql,tailwind,bootstrap,java,python,git,github,vscode,postman,vercel&theme=dark"/>
 
 </div>
 
@@ -72,11 +72,13 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DinhGH&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DinhGH&theme=github-dark&hide_border=true&background=000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhGH&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhGH&theme=github_dark"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -86,7 +88,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DinhGH&theme=github-dark-blue&hide_border=true&background=000000"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinhGH&theme=github_dark"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinhGH&theme=github_dark"/>
 
@@ -108,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,typescript,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mysql,tailwind,git,vercel&theme=dark"/>
 
 </div>
 
@@ -130,11 +132,12 @@
 </div>
 
 ---
+
 # Quote I Like
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Nothing+is+impossible." />
 
 <br/><br/>
 
