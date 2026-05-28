@@ -129,12 +129,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Nothing+is+impossible." />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=N%E1%BA%BFu+b%E1%BA%A1n+%C4%91%C3%A3+n%E1%BB%97+l%E1%BB%B1c+nh%C6%B0ng+v%E1%BA%ABn+thua+ng%C6%B0%E1%BB%9Di+kh%C3%A1c%2C+%C4%91i%E1%BB%81u+%C4%91%C3%B3+c%C3%B3+ngh%C4%A9a+ng%C6%B0%E1%BB%9Di+ta+n%E1%BB%97+l%E1%BB%B1c+h%C6%A1n+b%E1%BA%A1n" />
 
 <div align="right" width="70%">
 
-### — F8 —
+### —  —
 
 </div>
 
