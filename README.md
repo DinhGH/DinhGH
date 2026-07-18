@@ -20,14 +20,15 @@
 
 ```txt
 - Software Engineering Student
-- Fullstack Web Developer
-- Focused on React + Node.js (Express.js) Ecosystem
-- Interested in Backend Architecture & AI Integration
-- Continuously learning new technologies and development practices
-- Interested in modern UI/UX and responsive web design
-- Experienced with REST APIs, authentication, and CRUD
-- Open to collaboration on innovative and impactful projects
-- Turning ideas into real-world applications through code
+- Full-Stack Developer with a strong focus on Backend Development
+- Specialized in Node.js, Express.js, and the JavaScript ecosystem
+- Solid understanding of Node.js Event Loop, Asynchronous Programming, Streams, Buffers, and RESTful API Design
+- Experienced in designing scalable backend services, authentication, authorization, and database-driven applications
+- Proficient with MySQL, PostgreSQL, Prisma ORM, Redis, GraphQL, and Socket.IO
+- Passionate about Backend Architecture, System Design, Performance Optimization, and AI Integration
+- Familiar with Git, Docker, and modern development workflows
+- Continuously learning distributed systems, microservices, and cloud-native technologies
+- Building reliable, maintainable, and production-ready web applications
 ```
 
 <br clear="right"/>
@@ -62,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,mysql,tailwind,java,python,git,github,vscode,postman,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mysql,tailwind,git,github,vscode,postman,vercel,docker&theme=dark"/>
 
 </div>
 
@@ -103,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mysql,tailwind,git,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,tailwind,git&theme=dark"/>
 
 </div>
 
