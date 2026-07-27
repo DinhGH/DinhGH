@@ -19,16 +19,15 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```txt
-- Software Engineering Student
-- Full-Stack Developer with a strong focus on Backend Development
-- Specialized in Node.js, Express.js, and the JavaScript ecosystem
-- Solid understanding of Node.js Event Loop, Asynchronous Programming, Streams, Buffers, and RESTful API Design
-- Experienced in designing scalable backend services, authentication, authorization, and database-driven applications
-- Proficient with MySQL, PostgreSQL, Prisma ORM, Redis, GraphQL, and Socket.IO
-- Passionate about Backend Architecture, System Design, Performance Optimization, and AI Integration
-- Familiar with Git, Docker, and modern development workflows
+- Software Engineering Student with a focus on Backend Development.
+- Proficient in Node.js, Express.js, and the JavaScript ecosystem (RESTful APIs, Custom Middlewares, Helpers, Controller-Service Pattern).
+- Solid understanding of Node.js core concepts: Event Loop, Asynchronous Programming, Streams, and Buffers.
+- Hands-on experience in building relational databases with PostgreSQL / MySQL, using Prisma ORM for query optimization and data modeling.
+- Experienced in implementing Authentication & Authorization (JWT, OAuth), Redis caching, and real-time communication with Socket.IO.
+- Familiar with modern dev tools: Git, Docker, and API Testing with Postman.
+- Eager to learn and apply clean code principles and scalable backend practices in real-world projects.
 - Continuously learning distributed systems, microservices, and cloud-native technologies
-- Building reliable, maintainable, and production-ready web applications
+
 ```
 
 <br clear="right"/>
