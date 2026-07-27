@@ -129,8 +129,8 @@
 
 <p align="center">
   <i>
-    “Nếu bạn đã nỗ lực nhưng vẫn thua người khác,<br>
-    điều đó có nghĩa người ta nỗ lực hơn bạn.”
+    “Another sunrise, another sunset<br>
+Soon it'll all be yesterday”
   </i>
 </p>
 
