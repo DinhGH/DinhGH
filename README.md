@@ -110,16 +110,16 @@
 
 <div align="center">
 
-| Technology | Progress |
-|---|---|
-| React.js Development | ██████████ 90% |
-| Express.js Backend | █████████ 85% |
-| REST API Development | █████████ 85% |
-| PostgreSQL & MySQL | ████████ 80% |
-| Tailwind CSS & Responsive UI | ████████ 80% |
-| Authentication & JWT | ███████ 75% |
-| Git & GitHub Workflow | ███████ 75% |
-| Web Deployment & Hosting | ██████ 60% |
+| Technology |
+|---|
+| React.js Development |
+| Express.js Backend |
+| REST API Development |
+| PostgreSQL & MySQL | 
+| Tailwind CSS & Responsive UI |
+| Authentication & JWT |
+| Git & GitHub Workflow |
+| Web Deployment & Hosting |
 
 </div>
 
